@@ -5,9 +5,9 @@
 <description>TTD PDF Secure Application updates.</description>
 <language>en</language>
 <item>
-<title>Version 0.0.1</title>
+<title>Version 0.0.2</title>
 <sparkle:releaseNotesLink>https://raw.githubusercontent.com/tothedigital/TTD-PDF-SECURE/main/ReleaseHistory.html</sparkle:releaseNotesLink>
-<pubDate>Thu, 20 Jan 2022 18:11:12 +0200</pubDate>
+<pubDate>Sat, 22 Jan 2022 18:11:12 +0200</pubDate>
 <enclosure url="https://github.com/tothedigital/TTD-PDF-SECURE/releases/download/V0.0.2/TTD_PDF_Secure_setup_x64_v0.0.2.exe" sparkle:version="0.0.2" sparkle:dsaSignature="WQMRJE+kRoICZXAhq5b24WkgqcDs0z7gyBkGVw==" type="application/octet-stream"/>
 </item>
 </channel>
